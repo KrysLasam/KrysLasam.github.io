@@ -1,13 +1,10 @@
 # KrysLasam.github.io
 
-A portfolio all about me
-
-For my App Dev Class 
-Activity #07: Portfolio using GitHub & CSS Frameworks 
+A humble portfolio all about me
 
 This contains:
 - A recent and clean photo of me
-- My Full Name (no MI sorry)
+- My Full Name
 - Education Section
 - Projects Section
 - Skills Section
